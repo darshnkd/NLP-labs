@@ -5,7 +5,7 @@ Welcome to the NLP Lab Practicals repository. This repository contains practical
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Practical 1: Introduction to spaCy and NLTK - Tokenization](#practical-1-introduction-to-spacy-and-nltk---tokenization)
+- [Practical 1: Introduction to spaCy and NLTK - Tokenization](https://github.com/darshnkd/NLP-labs/blob/main/01_nlp.ipynb)
 - [Practical 2: Stemming and Lemmatization](#practical-2-stemming-and-lemmatization)
 - [Practical 3: POS Tagging](#practical-3-pos-tagging)
 - [Practical 4: Spelling Correction](#practical-4-spelling-correction)
