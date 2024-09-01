@@ -14,7 +14,7 @@ Welcome to the NLP Lab Practicals repository. This repository contains practical
 - [Practical 7: n-gram language model with nltk](#practical-7-tbd)
 - [Practical 8: Text classification with nltk](#practical-8-tbd)
 - [Practical 9: Implement a small case for speech to text generation](#practical-9-tbd)
-- [Practical 10: TBD](#practical-10-tbd)
+- [Practical 10: Virtual Lab](#practical-10-tbd)
 
 ## Introduction
 
