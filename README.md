@@ -11,7 +11,7 @@ Welcome to the NLP Lab Practicals repository. This repository contains practical
 - [Practical 4: Spelling Correction](https://github.com/darshnkd/NLP-labs/blob/main/04_nlp.ipynb)
 - [Practical 5: Stopword Removal](https://github.com/darshnkd/NLP-labs/blob/main/05_nlp.ipynb)
 - [Practical 6: Named Entity Recognition (NER)](https://github.com/darshnkd/NLP-labs/blob/main/06_nlp.ipynb)
-- [Practical 7: n-gram language model with nltk](#practical-7-tbd)
+- [Practical 7: n-gram language model with nltk](https://github.com/darshnkd/NLP-labs/blob/main/07_nlp.ipynb)
 - [Practical 8: Text classification with nltk](#practical-8-tbd)
 - [Practical 9: Implement a small case for speech to text generation](#practical-9-tbd)
 - [Practical 10: Virtual Lab](#practical-10-tbd)
